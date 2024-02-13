@@ -1,2 +1,2 @@
-# design-patterns
-Project with design patterns examples
+# Design Patterns
+Project with design patterns examples.
