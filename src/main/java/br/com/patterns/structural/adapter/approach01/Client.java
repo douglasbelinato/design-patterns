@@ -1,4 +1,10 @@
-package br.com.patterns.structural.adapter.approach01.model;
+package br.com.patterns.structural.adapter.approach01;
+
+import br.com.patterns.structural.adapter.approach01.adapter.OldMonitorToHdmiDeviceAdapter;
+import br.com.patterns.structural.adapter.approach01.adapter.VgaToHdmiDeviceApater;
+import br.com.patterns.structural.adapter.approach01.model.Computer;
+import br.com.patterns.structural.adapter.approach01.model.OldMonitor;
+import br.com.patterns.structural.adapter.approach01.model.SmartTV;
 
 public class Client {
 

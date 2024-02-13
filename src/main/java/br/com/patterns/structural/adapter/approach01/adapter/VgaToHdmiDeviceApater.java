@@ -1,4 +1,7 @@
-package br.com.patterns.structural.adapter.approach01.model;
+package br.com.patterns.structural.adapter.approach01.adapter;
+
+import br.com.patterns.structural.adapter.approach01.model.HdmiDevice;
+import br.com.patterns.structural.adapter.approach01.model.VgaDevice;
 
 public class VgaToHdmiDeviceApater implements HdmiDevice {
 
