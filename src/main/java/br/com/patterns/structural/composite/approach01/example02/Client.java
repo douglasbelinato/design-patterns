@@ -31,6 +31,4 @@ public class Client {
         jFrame.setVisible(true);
     }
 
-
-    }
 }
