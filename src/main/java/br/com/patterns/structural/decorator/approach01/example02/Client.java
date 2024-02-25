@@ -1,4 +1,4 @@
-package br.com.patterns.structural.decorator.example02;
+package br.com.patterns.structural.decorator.approach01.example02;
 
 import javax.swing.JFrame;
 import javax.swing.JScrollPane;

@@ -1,7 +1,9 @@
-## Example 1
+## Approach 1
 ***
-* Classic decorator implementation - Coffee shop example.
+* Classic decorator implementation.
 
-## Example 2
-***
-* Classic decorator implementation - Java Swing using Decorator 
+### Example 1
+Coffee shop example.
+
+### Example 2
+Java Swing using Decorator. 

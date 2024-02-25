@@ -1,4 +1,4 @@
-package br.com.patterns.structural.decorator.example01;
+package br.com.patterns.structural.decorator.approach01.example01;
 
 public abstract class DrinkDecorator implements Drink {
 
