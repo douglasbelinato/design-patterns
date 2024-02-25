@@ -1,4 +1,4 @@
-package br.com.patterns.structural.composite.approach01;
+package br.com.patterns.structural.composite.approach01.example01;
 
 import java.math.BigDecimal;
 
