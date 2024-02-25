@@ -1,14 +1,13 @@
 package br.com.patterns.creational.factorymethod.model;
 
 import br.com.patterns.creational.common.AirplaneModelEnum;
-import lombok.NonNull;
 
 public abstract class Airplane {
 
     protected AirplaneModelEnum model;
     protected int capacity;
 
-    protected Airplane(@NonNull AirplaneModelEnum model, int capacity) {
+    protected Airplane(AirplaneModelEnum model, int capacity) {
         this.model = model;
         this.capacity = capacity;
     }
